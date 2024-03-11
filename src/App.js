@@ -7,7 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          I hate Netlify and everything that comes with it.
+        </p>
+        <p>
+          If this is not a change to an existing file then I don't know what is.
         </p>
         <a
           className="App-link"
