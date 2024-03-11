@@ -10,7 +10,7 @@ function App() {
           I hate Netlify and everything that comes with it.
         </p>
         <p>
-          If this is not a change to an existing file then I don't know what is.
+          Big Change, huge commit
         </p>
         <a
           className="App-link"
